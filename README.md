@@ -1,7 +1,7 @@
 # twitter-autocomment-tool
 I MADE THIS TOOL FOR FREE! I ALSO HAVE THE BETA VERSION
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
 ![twt](https://user-images.githubusercontent.com/125784563/225600688-31d2cbc4-ab89-49d8-91ee-d999959bed13.jpeg)
 
@@ -11,7 +11,7 @@ I MADE WITH PYTHON
 
 DO YOU NEED THE BETA VERSION [EXE FILE]
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
 
 # CONFIGURATION
@@ -27,7 +27,7 @@ MESSAGE > https://t.me/senseicodes
 
 YOU DON'T UNDERSTAND ?
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
 
 # USAGE 
