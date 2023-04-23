@@ -48,3 +48,6 @@ MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 # LEGAL DISCLAIMER
 
 USE THIS TOOL FOR YOUR PERSONAL MARKETING METHOD, I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS TOOL
+
+# KEYWORDS
+how to auto-comment on twitter how to mass comment on twitter how to mass dm on twitter
